@@ -1,0 +1,24 @@
+{
+	"authors": [
+		"Tosyukov Nazar <mrnazar44@gmail.com>"
+	],
+	"copyright": "Tosyukov Nazar (C) 2019 - 2022",
+	"dependencies": {
+		"chunk": {
+			"path": "tools\\chunk"
+		},
+		"commandr": "~>0.2.0",
+		"grimoire": "0.5.2",
+		"tida": {
+			"path": "..\\Tida"
+		}
+	},
+	"description": "Role-Game-Prototype",
+	"license": "MIT",
+	"name": "rgp",
+	"versions": [
+		"first_tom",
+		"StdLoggerDisableLogging"
+	],
+	"targetType": "executable"
+}

@@ -1,0 +1,7 @@
+name "mc"
+description "Map compiler from sdl to binary"
+dependency "sdlang-d" version="~>0.10.6"
+dependency "grimoire" version="~>0.5.2"
+dependency "tida" path="../../../Tida"
+sourceFiles "mc.d" "../chunk/source/chunk.d" "../../source/rgp/core/grlib.d" "../../source/rgp/core/player.d" "../../source/rgp/core/characteristic.d" "../../source/rgp/core/def.d" "../../source/rgp/core/battle.d" "../../source/rgp/core/locale.d" "../../source/rgp/core/save.d" "../../source/rgp/core/setting.d" "../../source/rgp/core/move.d" "../../source/tida/animobj.d" "../../source/rgp/core/dialog.d" "../../source/rgp/core/effect.d"
+targetType "executable"

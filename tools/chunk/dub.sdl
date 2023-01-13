@@ -1,0 +1,3 @@
+name "chunk"
+description "Chunk - description binary format"
+targetType "library"

@@ -1,0 +1,19 @@
+root = true
+
+[*.d]
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+charset = utf-8
+max_line_length = 80
+dfmt_brace_style = allman
+dfmt_space_after_cast = true
+dfmt_space_before_function_parameters = true
+dfmt_selective_import_space = true
+
+[*.sdl]
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+charset = utf-8
+max_line_length = 80
